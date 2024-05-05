@@ -5,6 +5,11 @@ This repository contains a simple C# implementation of the Strategy Pattern.
 ## Overview
 
 The Strategy Pattern is a behavioral design pattern that enables selecting an algorithm at runtime from a family of algorithms. It defines a family of algorithms, encapsulates each one of them, and makes them interchangeable. By using the Strategy Pattern, the algorithm can vary independently from the client that uses it.
+A client can select an algorithm from a set of algorithms dynamically at runtime. This
+pattern also provides a simple way to use the selected algorithm.
+You know that an object can have states and behaviors. And some of these behaviors
+may vary among the objects of a class. This pattern focuses on the changing behaviors
+that can be associated with an object at a specific time.
 
 In this example, we demonstrate the Strategy Pattern by implementing a discount system for a customer based on their total sales amount. The discount strategies vary based on predefined thresholds of total sales amounts.
 
