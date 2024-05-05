@@ -17,4 +17,15 @@ In this example, we demonstrate the Strategy Pattern by implementing a discount 
 
 ## How to Use
 
-1. Clone the repository:
+# 1. Clone the repository:
+
+```bash
+# git clone https://github.com/stevsharp/StrategyPattern.git
+
+# 2 .Open the solution in your preferred C# IDE.
+Run the program and observe the output, which demonstrates different discount strategies applied based on the total sales amount.
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
