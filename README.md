@@ -20,6 +20,10 @@ In this example, we demonstrate the Strategy Pattern by implementing a discount 
 - `CustomerDiscountContext`: Context class that uses the selected discount strategy to apply discounts based on the total sales amount.
 - `Program.cs`: Main program demonstrating how to use the Strategy Pattern to apply discounts.
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
+
 ## How to Use
 
 # 1. Clone the repository:
@@ -34,3 +38,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
